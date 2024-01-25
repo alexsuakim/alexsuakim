@@ -11,10 +11,10 @@
 - <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a> where we can start building a connection 🤝
 
 ### My techstack is 👩🏻‍💻
-- data science
-  [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)](https://skillicons.dev)
-- languages/frameworks/tools
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)](https://skillicons.dev)
+data science
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)](https://skillicons.dev)
+languages/frameworks/tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)](https://skillicons.dev)
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
