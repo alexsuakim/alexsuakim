@@ -10,6 +10,9 @@
 - <a href="www.sua-kim.com">my website</a>, where I post what I'm learning 📚
 - <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a> where we can start building a connection 🤝
 
+# My techstack is
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)](https://skillicons.dev)
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
