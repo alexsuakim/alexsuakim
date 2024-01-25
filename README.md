@@ -1,7 +1,15 @@
-# Hello world, I'm Sua 👋
+# Hello world, I'm Sua 🙋🏻‍♀️👋
 
-- 🎓 I'm a final year student at the University of Hong Kong.
-- 👩🏻‍🏫 This semester I'm taking: Web Technologies, Big Data Analysis & Data Visualisation
+- 📈 I am a data-driven engineer
+-  🎓 I'm a final year student at the University of Hong Kong
+- 🌌 I’m currently working on my final year project on authentic image completion
+- 🌱 I’m currently learning web technologies: HTTP, HTML, CSS, Node.js, docker & more
+
+## You can find me on 🌎
+
+- <a href="www.sua-kim.com">my website</a>, where I post what I'm learning 📚
+- <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a> where we can start building a connection 🤝
+
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
