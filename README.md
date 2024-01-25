@@ -1,4 +1,4 @@
-# Hello world, I'm Sua 🙋🏻‍♀️👋
+# Hi, I'm Sua 🙋🏻‍♀️👋
 
 - 📈 I am a data-driven engineer
 -  🎓 I'm a final year student at the University of Hong Kong
