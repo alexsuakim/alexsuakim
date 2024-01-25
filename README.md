@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello world, I'm Sua 👋
 
+- 🎓 I'm a final year student at the University of Hong Kong.
+- 👩🏻‍🏫 This semester I'm taking: Web Technologies, Big Data Analysis & Data Visualisation
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
