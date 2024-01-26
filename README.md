@@ -5,14 +5,14 @@
 - 🌌 I’m currently working on my final year project on authentic image completion
 - 🌱 I’m currently learning web technologies: HTTP, HTML, CSS, Node.js, docker & more
 
-## You can find me on 🌎
+#### 👩🏻‍💻 Languages/frameworks/tools I use are 
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)]()
+
+## 🌎 You can find me on 
 
 - <a href="www.sua-kim.com">my website</a>, where I post what I'm learning 📚
 - <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a> where we can start building a connection 🤝
-
-### Languages/frameworks/tools I use are 👩🏻‍💻
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)]()
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)]()
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
