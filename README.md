@@ -4,6 +4,7 @@
 -  🎓 I'm a final year student at the University of Hong Kong
 - 🌌 I’m currently working on my final year project on authentic image completion
 - 🌱 I’m currently learning web technologies: HTTP, HTML, CSS, Node.js, docker & more
+- 🖥️ I teach the bootcamps <i><a href="https://www.preface.ai/adult-programs/data-science-with-python/">Data Science and AI with Python</a></i> and <i><a href="https://www.preface.ai/one-to-one/kid-full-stack/">Full Stack Web Development (Youth)</a></i>  at <a href="https://www.preface.ai/">Preface</a>
 
 ### 👩🏻‍💻 Languages/frameworks/tools I use are 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)]()
@@ -12,7 +13,7 @@
 ## 🌎 You can find me on 
 
 - <a href="www.sua-kim.com">My website</a>, where I post what I'm learning 📚
-- <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
+- <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a> and <a href="https://app.preface.ai/techbites">Techbites</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
 - <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a>, where we can start building a connection 🤝
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
