@@ -5,7 +5,7 @@
 - 🌌 I’m currently working on my final year project on authentic image completion
 - 🌱 I’m currently learning web technologies: HTTP, HTML, CSS, Node.js, docker & more
 
-#### 👩🏻‍💻 Languages/frameworks/tools I use are 
+### 👩🏻‍💻 Languages/frameworks/tools I use are 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)]()
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)]()
 
