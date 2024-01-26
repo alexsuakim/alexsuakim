@@ -11,8 +11,9 @@
 
 ## 🌎 You can find me on 
 
-- <a href="www.sua-kim.com">my website</a>, where I post what I'm learning 📚
-- <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a> where we can start building a connection 🤝
+- <a href="www.sua-kim.com">My website</a>, where I post what I'm learning 📚
+- <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
+- <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a>, where we can start building a connection 🤝
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
