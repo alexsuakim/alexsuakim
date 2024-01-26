@@ -14,7 +14,7 @@
 
 - <a href="www.sua-kim.com">sua-kim.com</a>, where I post what I'm learning 📚
 - <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a> and <a href="https://app.preface.ai/techbites">Techbites</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
-- <a href="https://www.linkedin.com/in/sooahkim1/">Linkedin</a>, where we can start building a connection 🤝
+- <a href="https://www.linkedin.com/in/sooahkim1/">LinkedIn</a>, where we can start building a connection 🤝
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
