@@ -7,7 +7,7 @@
 - 🖥️ I teach the bootcamps <i><a href="https://www.preface.ai/adult-programs/data-science-with-python/">Data Science and AI with Python</a></i> and <i><a href="https://www.preface.ai/one-to-one/kid-full-stack/">Full Stack Web Development (Youth)</a></i>  at <a href="https://www.preface.ai/">Preface</a>
 
 ### 👩🏻‍💻 Languages/frameworks/tools I use are 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,r,postgres,mysql)]()
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)]()
 
 ## 🌎 You can find me on 
