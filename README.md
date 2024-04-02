@@ -8,7 +8,7 @@
 
 ### 👩🏻‍💻 Languages/frameworks/tools I use are 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,r,postgres,mysql)]()
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,docker,git,github,linux,c,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,docker,git,github,linux,c,cpp)]()
 
 ## 🌎 You can find me on 
 
