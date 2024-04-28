@@ -12,7 +12,7 @@
 
 ## 🌎 You can find me on 
 
-- <a href="www.sua-kim.com">sua-kim.com</a>, where I post what I'm learning 📚
+- <a href="https://cheddar-puppy-d90.notion.site/Alex-s-Portfolio-4efab03f252b45cab50c7cb242aec1bc">Notion</a>, where I post what I'm learning 📚
 - <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a> and <a href="https://app.preface.ai/techbites">Techbites</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
 - <a href="https://www.linkedin.com/in/sooahkim1/">LinkedIn</a>, where we can start building a connection 🤝
 <!--
