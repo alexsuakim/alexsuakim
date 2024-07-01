@@ -16,10 +16,6 @@
 - <a href="https://www.youtube.com/@prefaceai/videos">Youtube</a> and <a href="https://app.preface.ai/techbites">Techbites</a>, where I host tech/AI video podcasts for <a href="https://www.preface.ai/">Preface</a> 📹
 - <a href="https://www.linkedin.com/in/sooahkim1/">LinkedIn</a>, where we can start building a connection 🤝
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsuakim)](https://github.com/anuraghazra/github-readme-stats)
-[![Alex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsuakim)](https://github.com/anuraghazra/github-readme-stats)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsuakim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <!--
 **alexsuakim/alexsuakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
